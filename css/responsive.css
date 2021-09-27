@@ -1,0 +1,63 @@
+
+ /* Small devices (landscape phones, 576px and up) */
+@media ( max-width:300px) {
+    .card_res{
+        width: 100%;
+    }
+    .card_box_res{
+        width: 100%;
+    }
+}
+@media (max-width: 576px) {
+    img {
+        width: 100%;
+    }
+    .form_res{
+        margin-bottom: 16px;
+    }
+}
+/* 
+ Medium devices (tablets, 768px and up) */
+@media (max-width: 768px) {
+    img {
+        width: 100%;
+    }
+    .form_res{
+        margin-bottom: 16px;
+    }
+    .about_section p {
+        font-size: 12px;
+    }
+    .about_box {
+        width: 100%;
+        position: relative;
+        top: 50px;
+    }
+    .testimonial_section_res{
+        margin-bottom: 60px;
+    }
+}
+
+ /* Large devices (desktops, 992px and up) */
+@media (max-width: 992px) {
+    img {
+        width: 100%;
+    }
+}
+
+ /* X-Large devices (large desktops, 1200px and up) */
+@media (max-width: 1200px) {
+    .about_box {
+        width: 100%;
+    }
+}
+
+/* XX-Large devices (larger desktops, 1400px and up) */
+@media (max-width: 1400px) {
+    .container{
+        box-sizing: border-box;
+        padding: 0 20px;
+    }
+    
+
+}

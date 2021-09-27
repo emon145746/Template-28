@@ -1,0 +1,98 @@
+/* ================================================ */
+/* =================Header Menu =================== */
+/* ================================================ */
+body{
+    font-family: sans-serif;
+}
+.header_box {
+	width: 90px;
+	margin-top: 5px;
+}
+.menu_box{
+    margin-left: 30px;
+}
+/* ================================================ */
+/* =================Banner Section ================ */
+/* ================================================ */
+.banner_section{
+    background: #f9f9ff;
+}
+.btn_box{
+    background: #8491ff;
+    border: 1px solid  #8491ff;
+}
+.banner_text{
+    margin-top: 100px;
+}
+/* ================================================ */
+/* =================Number Section ================ */
+/* ================================================ */
+    .number_section{
+        background: #8490ff;
+    }
+    .number_section h2{
+        font-weight: 600;
+        font-size: 50px;
+    }
+    .number_section p{
+        font-size: 18px;
+    }
+/* ================================================ */
+/* =================P_Table Section =============== */
+/* ================================================ */
+.p_table_section{
+    background: #f9f9ff;
+    padding-top: 20px;
+}
+.p_table_section p{
+    font-size: 20px;
+}
+.Card_box{
+    background: #f9f9ff;
+    height: 100px;
+    width: 100px;
+    line-height: 100px;
+    border-radius: 50%;
+    text-align: center;
+}
+.p_btn{
+    color: #8490ff;
+    border: 1px solid #8490ff;
+    font-size: 19px;
+}
+/* ================================================ */
+/* ============= Testimonial Section ============== */
+/* ================================================ */
+.testimonial_section{
+    padding-top: 150px;
+}
+
+.t_c_box {
+    width: 100px;
+    margin-top: -95px;
+}
+.c_p{
+    font-size: 17px;
+}
+/* ================================================ */
+/* ================ Contact Section =============== */
+/* ================================================ */
+.contact_section{
+    background: #f9f9ff;
+}
+.form_box{
+    background: #fff;
+}
+.b_box{
+    background: #17a2b8 !important;
+    color: #fff;
+}
+.contact_box{
+    margin-top: 150px;
+}
+/* ================================================ */
+/* ================ Footer Section =============== */
+/* ================================================ */
+.footer_section{
+    background: #04091e;
+}
